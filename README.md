@@ -1,2 +1,2 @@
-# todo
+# Todo
 golang starter todo project
